@@ -1,0 +1,6 @@
+nama=input('siapa nama anda?')
+print('selamat datang',nama,'semangat yaaa')
+alamat=input('anda dari mana?')
+print ('oooh anda dari',alamat)
+nomer_telpon=input('boleh masukan nomer telponnya?')
+print ('jadi',nomer_telpon,'nomer anda')
